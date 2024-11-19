@@ -1,43 +1,7 @@
-# Zigment.ai-Software-Engineer---Frontend---Technical-Assessment
 
 
     <h1>Dynamic Form Generator</h1>
-    <p>
-        A web application to dynamically generate forms based on a JSON schema. 
-        Edit the JSON, preview the form, and submit data in real-time.
-    </p>
-
-    <h2>🚀 Live Demo</h2>
-    <p>Access the live app: <a href="#">Dynamic Form Generator</a></p>
-
-    <h2>📦 Features</h2>
-    <ul>
-        <li>Split-screen layout: JSON editor and real-time form preview.</li>
-        <li>Supports text, email, select, radio, and textarea fields.</li>
-        <li>Validation for required fields and custom patterns.</li>
-        <li>Responsive design with mobile support.</li>
-        <li>Dark mode toggle (bonus).</li>
-        <li>Download form submissions as JSON (bonus).</li>
-    </ul>
-
-   
-
-    <h2>📋 Example JSON Schemas</h2>
-    <h3>Simple Form</h3>
-    <pre><code>
-{
-  "formTitle": "Contact Form",
-  "formDescription": "Fill out your details.",
-  "fields": [
-    {
-      "id": "name",
-      "type": "text",
-      "label": "Name",
-      "required": true,
-      "placeholder": "Enter your name"
-    },
-    {
-      "id": "email",
+    <
       "type": "email",
       "label": "Email",
       "required": true,
@@ -49,7 +13,6 @@
     }
   ]
 }
-    </code></pre>
 
     <h2>🛠️ Tech Stack</h2>
     <ul>
