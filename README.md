@@ -1,55 +1,17 @@
+<h2>
+Dynamic Form Generator</h2>
+<h4>
+  A Dynamic Form Generator built with React, TypeScript, and Tailwind CSS. This application allows users to define a form schema in JSON, preview the generated form in real-time, and submit data seamlessly. It also includes robust validation, responsive design, and various bonus features.
+</h4>
+<h5>Features</h5>
+<h5>Split-Screen Interface :</h5>
+<li>Left: JSON editor with syntax highlighting and real-time validation.</li>
+<li>Right: Live form preview that updates dynamically.</li>
+<h5>Split-Screen Interface :</h5>
+<li>Left: JSON editor with syntax highlighting and real-time validation.</li>
+<li>Right: Live form preview that updates dynamically.</li>
 
-
-    <h1>Dynamic Form Generator</h1>
-    <
-      "type": "email",
-      "label": "Email",
-      "required": true,
-      "placeholder": "you@example.com",
-      "validation": {
-        "pattern": "^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$",
-        "message": "Please enter a valid email address"
-      }
-    }
-  ]
-}
-
-    <h2>🛠️ Tech Stack</h2>
-    <ul>
-        <li>Frontend: React, TypeScript, Tailwind CSS</li>
-        <li>Form Management: React Hook Form</li>
-        <li>JSON Validation: Ajv</li>
-        <li>Testing: Jest, Playwright</li>
-        <li>Deployment: Vercel</li>
-    </ul>
-
-    <h2>🖥️ Development Guide</h2>
-    <ul>
-        <li>JSON Editor: Validates JSON in real-time and displays errors.</li>
-        <li>Form Generator: Dynamically generates fields and handles validation.</li>
-        <li>Styling: Clean and responsive UI with Tailwind CSS.</li>
-    </ul>
-
-    <h2>🌟 Bonus Features</h2>
-    <ul>
-        <li>Copy JSON schema to clipboard.</li>
-        <li>Download form submissions as JSON.</li>
-        <li>Dark mode toggle for better accessibility.</li>
-    </ul>
-
-    <h2>🌐 Deployment</h2>
-    <ol>
-        <li>Install Vercel CLI:
-            <pre><code>npm install -g vercel</code></pre>
-        </li>
-        <li>Deploy:
-            <pre><code>vercel</code></pre>
-        </li>
-    </ol>
-
-    <h2>🤝 Contributing</h2>
-    <p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
-
-    <h2>📧 Contact</h2>
-    <p>For questions or feedback, email <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+  
+  <img src="https://github.com/MuppallaBhavani/Zigment.ai-Software-Engineer---Frontend---Technical-Assessment/blob/main/assignment.png">
+  
 
